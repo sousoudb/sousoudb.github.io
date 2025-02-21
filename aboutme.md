@@ -8,7 +8,7 @@ My name is Souhaila Dari, I am from Barcelona and I love learning new skills whi
 
 ### Education
 
-- CBiomedical Engineering degree at UPC (2019 - 2024)
+- Biomedical Engineering degree at UPC (2019 - 2024)
 - Master in Health Data Science at URV (2024 - present)
 
 ### Experience
