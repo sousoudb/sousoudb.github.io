@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/ferran.jpeg"
+avatar: "/images/Sousou.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,22 +36,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
+  email: "sousou@sousoudb.com"
+  facebook: sousou
+  github: sousou
   twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  youtube: "@sousou"
+  linkedin: sousou
+#  xing: Souhaila
+#  stackoverflow: "3943160/xxxxx"
+#  snapchat: sousou
+#  instagram: sousou
+#  spotify: sousou
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
+#  steam: sousou
+#  twitch: sousou
+#  yelp: sousou
+#  telegram: sousou
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
